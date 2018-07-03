@@ -26,3 +26,27 @@ Play
 ![](https://github.com/LGY3030/FlappyBird_Game/blob/master/illustration/mode.png)<br />
 ### Rank
 ![](https://github.com/LGY3030/FlappyBird_Game/blob/master/illustration/rank.png)<br />
+
+### Usage
+* Start
+```
+Left mouse button: jump
+Space: attack
+```
+* Battle
+P1
+```
+Q: jump
+W: attack
+```
+
+P2
+```
+O: jump
+P: attack
+```
+* Stairs
+```
+Keyboard left: move left
+Keyboard right: move right
+```
