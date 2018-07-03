@@ -34,14 +34,14 @@ Left mouse button: jump
 Space: attack
 ```
 * Battle
-P1
 ```
+P1
 Q: jump
 W: attack
 ```
 
-P2
 ```
+P2
 O: jump
 P: attack
 ```
